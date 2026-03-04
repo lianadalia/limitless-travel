@@ -6,6 +6,11 @@ A functional front-end prototype for the Limitless travel platform, built for UX
 
 ## link to live demo: https://lianadalia.github.io/limitless-travel/
 
+Link to Figma Seearch flow
+https://www.figma.com/board/aDATzrPyKDCyvFBVz7avtJ/Limitless-%E2%80%94-Nomad-Base-Search-Flow?node-id=0-1&t=5HByYr39ZFt3JwrE-1
+
+
+
 ## Live prototype
 
 ```bash
