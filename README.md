@@ -7,8 +7,11 @@ A functional front-end prototype for the Limitless travel platform, built for UX
 ## link to live demo: https://lianadalia.github.io/limitless-travel/
 
 Link to Figma 
+
 Search flow: https://www.figma.com/board/aDATzrPyKDCyvFBVz7avtJ/Limitless-%E2%80%94-Nomad-Base-Search-Flow?node-id=0-1&t=5HByYr39ZFt3JwrE-1
+
 Site Map & Navigation Flow: https://www.figma.com/board/bmjmy5AreT8bf810C55DS1/Limitless-%E2%80%94-Site-Map---Navigation-Flow?node-id=0-1&t=Qmqh7xKELZNXgTD1-1
+
 User Flow: https://www.figma.com/board/Gin9gCbYen7fz8iWzvwsge/Limitless-%E2%80%94-Discover-to-Plan-User-Flow?node-id=0-1&t=y05psgeZWIpuZW3m-1
 
 ## Live prototype
