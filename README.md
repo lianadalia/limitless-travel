@@ -4,6 +4,8 @@
 
 A functional front-end prototype for the Limitless travel platform, built for UX team discussions with the technical team.
 
+## link to live demo: https://lianadalia.github.io/limitless-travel/
+
 ## Live prototype
 
 ```bash
