@@ -4,6 +4,8 @@
 
 **Live demo:** https://lianadalia.github.io/limitless-travel/
 
+**Figma mockup:** https://www.figma.com/design/I3CzuNENGmOwXGxxTLRsSk/Limitless-%E2%80%94-Live-Prototype-Screens?node-id=0-1&t=4jus9sYT64sWKxwp-1
+
 ---
 
 ## Overview
