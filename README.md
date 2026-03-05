@@ -15,7 +15,15 @@ Limitless brings inspiration, planning, and booking into a single, editorially-l
 This repository contains a functional front-end prototype built for UX team discussions with the technical team, alongside the full UX research that informed it.
 
 ---
+### Figma flow diagrams
 
+Three FigJam diagrams were produced alongside the prototype:
+
+- [Site Map & Navigation Flow](https://www.figma.com/board/bmjmy5AreT8bf810C55DS1/Limitless-%E2%80%94-Site-Map---Navigation-Flow?node-id=0-1&t=Qmqh7xKELZNXgTD1-1)
+- [Discover → Plan User Flow](https://www.figma.com/board/Gin9gCbYen7fz8iWzvwsge/Limitless-%E2%80%94-Discover-to-Plan-User-Flow?node-id=0-1&t=y05psgeZWIpuZW3m-1)
+- [Nomad Base Search Flow](https://www.figma.com/board/aDATzrPyKDCyvFBVz7avtJ/Limitless-%E2%80%94-Nomad-Base-Search-Flow?node-id=0-1&t=5HByYr39ZFt3JwrE-1)
+
+---
 ## Key Features
 
 ### Discover
@@ -59,16 +67,6 @@ All research artefacts are in `/research/`. The prototype was built from these d
 | `personas.md` | 4 user personas: Maya (Solo Adventurer, 28), David (Family Planner, 42), Priya (Digital Nomad, 34), Sophie (Luxury Tripper, 47) — each with goals, pain points, scenarios, and success metrics |
 | `journey-maps.md` | 3 end-to-end journey maps: Discover & Inspire (Maya), Plan a Trip (David), Nomad Base Search (Priya) — with touchpoints, emotions, pain points, and design opportunities at every stage |
 | `information-architecture.md` | Full site map, 4 primary user flows, content type inventory with trust signals, navigation patterns, and prototype page priority list |
-
-### Figma flow diagrams
-
-Three FigJam diagrams were produced alongside the prototype:
-
-- [Site Map & Navigation Flow](https://www.figma.com/board/bmjmy5AreT8bf810C55DS1/Limitless-%E2%80%94-Site-Map---Navigation-Flow?node-id=0-1&t=Qmqh7xKELZNXgTD1-1)
-- [Discover → Plan User Flow](https://www.figma.com/board/Gin9gCbYen7fz8iWzvwsge/Limitless-%E2%80%94-Discover-to-Plan-User-Flow?node-id=0-1&t=y05psgeZWIpuZW3m-1)
-- [Nomad Base Search Flow](https://www.figma.com/board/aDATzrPyKDCyvFBVz7avtJ/Limitless-%E2%80%94-Nomad-Base-Search-Flow?node-id=0-1&t=5HByYr39ZFt3JwrE-1)
-
----
 
 ## Key UX Decisions
 
