@@ -8,7 +8,7 @@
 
 ## Overview
 
-Limitless is a travel discovery and trip planning platform concept designed to fix the biggest frustration in travel UX: the journey is fragmented. You browse on one app, plan on another, and book on a third — none of them talk to each other and none of them actually inspire you.
+Limitless is an AI-assisted travel discovery and trip planning platform concept designed to fix the biggest frustration in travel UX: the journey is fragmented. You browse on one app, plan on another, and book on a third — none of them talk to each other and none of them actually inspire you.
 
 Limitless brings inspiration, planning, and booking into a single, editorially-led experience. Rather than leading with a search bar and a wall of listings, it leads with *feeling* — destinations are surfaced through mood, editorial curation, and community, not just price and availability. Once a traveller is inspired, the platform stays with them all the way to a fully planned, shareable itinerary.
 
